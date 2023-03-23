@@ -22,7 +22,7 @@ git clone https://github.com/myselflatu/python-flight-checker.git
 ```
 
 
-2. Install the required Python packages:
+2.Install the required Python packages:
 
 
 ```bash
@@ -40,4 +40,4 @@ pip install -r requirements.txt
 ```bash
 python flight_checker.py
 ```
-3. Follow the prompts to input the flight details.
+3.Follow the prompts to input the flight details.
